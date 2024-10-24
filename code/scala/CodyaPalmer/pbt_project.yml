@@ -1,0 +1,62 @@
+name: yessenia.gutmann
+description: archive
+version: 0.0.1
+author: 2ca0nt2c.eh9oz0jb@7ob9lnv5.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: yesseniagutmann
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:24:54'
+pipelines:
+  pipelines/Carlita_BarrowsCandice_B__FurealJay_Cummerata:
+    name: Carlita_BarrowsCandice_B__FurealJay_Cummerata
+    description: null
+    author: 2ca0nt2c.eh9oz0jb@7ob9lnv5.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2024-10-24 20:24:54'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:24:54'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:24:54.074042Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '721585699'
+  createdAt: '2024-10-24T20:24:54.074042Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
